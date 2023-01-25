@@ -139,11 +139,8 @@ h1 a{
 
 @media screen and (max-width:300px) {
  .logo{
-   
-   position:relative;
-  display:block;
+  display:none;
 }
-  .logo img{}
 }
 
 
