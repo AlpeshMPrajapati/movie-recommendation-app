@@ -135,6 +135,9 @@ h1 a{
         font-family:'Times New Roman', Times, serif;
         
     }
+.logo{
+  display:none;
+}
 }
 
 @media screen and (max-width:300px) {
