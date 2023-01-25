@@ -138,21 +138,13 @@ h1 a{
 }
 
 @media screen and (max-width:300px) {
-        #search{
-        display: block;
-        background-color: white;
-        padding: 3px 10px;
-        border-radius: 20px;
-        font-size: large;
-        border: none;
-        font-family:'Times New Roman', Times, serif;
-        
-    }
-    
-     .search-box{
-    padding-top: 50px;
-    align-items: center;
+ .logo{
+   
+   position:relative;
+  display:block;
 }
+  .logo img{}
 }
+
 
 
